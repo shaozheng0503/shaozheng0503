@@ -1,6 +1,5 @@
-<!-- Header Banner (Light/Dark) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7e5&height=160&section=header&text=Shiyu&fontSize=42&fontAlign=50&fontAlignY=35&desc=%E5%85%A8%E6%A0%88%20%E2%80%A2%20AI%20%E4%BA%A7%E5%93%81%20%E2%80%A2%20%E5%A2%9E%E9%95%BF&descAlign=50&descAlignY=60&animation=fadeIn&fontColor=3a2e39#gh-light-mode-only" alt="header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7d7eea&height=160&section=header&text=Shiyu&fontSize=42&fontAlign=50&fontAlignY=35&desc=%E5%85%A8%E6%A0%88%20%E2%80%A2%20AI%20%E4%BA%A7%E5%93%81%20%E2%80%A2%20%E5%A2%9E%E9%95%BF&descAlign=50&descAlignY=60&animation=fadeIn&fontColor=f7f7f8#gh-dark-mode-only" alt="header dark" />
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7e5&height=160&section=header&text=Shiyu&fontSize=42&fontAlign=50&fontAlignY=35&desc=%E5%85%A8%E6%A0%88%20%E2%80%A2%20AI%20%E4%BA%A7%E5%93%81%20%E2%80%A2%20%E5%A2%9E%E9%95%BF&descAlign=50&descAlignY=60&animation=fadeIn&fontColor=3a2e39" alt="header" />
 
 ### Hi there 👋
 
@@ -143,6 +142,5 @@ GitHub：[shaozheng0503](https://github.com/shaozheng0503)
 邮箱：18182685876@163.com  
 微信：hsz18182685876
 
-<!-- Footer Banner (Light/Dark) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7e5&height=120&section=footer#gh-light-mode-only" alt="footer" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7d7eea&height=120&section=footer#gh-dark-mode-only" alt="footer dark" />
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7e5&height=120&section=footer" alt="footer" />
