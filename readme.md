@@ -3,10 +3,6 @@
 
 ### Hi there 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=28&duration=3000&pause=800&color=FF8BD2&center=true&vCenter=true&width=650&lines=%E5%97%AF%E5%97%AF~+%E6%88%91%E6%98%AF+%E6%97%B6%E9%9B%A8+%EF%BD%9E+%F0%9F%8C%B8;%E4%B8%80%E4%B8%AA%E7%88%B1+AI+%E7%9A%84%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85+%F0%9F%8D%A5+%F0%9F%90%BE;%E5%8D%81%E5%88%86%E9%92%9F%E5%80%99%E8%AE%A9%E4%BA%A7%E5%93%81%E8%AF%B4%E6%B8%85%E8%AF%9D%E7%9A%84%E4%BA%BA~" alt="typing" />
-</p>
-
 我是时雨，20 岁，西安石油大学软件工程大四，可工作 7 天 / 周，远程 1 年以上。专注生成式 AI 应用与增长工程，将技术能力与产品方法结合，强调数据驱动、可度量与可复用。
 
 <p align="center">
@@ -108,7 +104,6 @@ CSDN「时雨」粉丝 **1.5 万**，公众号「少日拏云」**400** 粉，�
 </p>
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shaozheng0503&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&cache_seconds=1800" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaozheng0503&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
@@ -120,13 +115,7 @@ CSDN「时雨」粉丝 **1.5 万**，公众号「少日拏云」**400** 粉，�
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaozheng0503&theme=transparent" alt="summary details" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaozheng0503/shaozheng0503/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaozheng0503/shaozheng0503/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/shaozheng0503/shaozheng0503/output/github-snake.svg" />
-  </picture>
-</p>
+
 
 ---
 
